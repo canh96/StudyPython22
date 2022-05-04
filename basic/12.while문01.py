@@ -1,4 +1,4 @@
-#while문
+#ㅇㅇ
 hit = 0
 
 while hit<100:
@@ -9,7 +9,6 @@ while hit<100:
         break
     else :
         print(f'+{hit}')
-
 print('나무 찍기 완료!!')
 
 
