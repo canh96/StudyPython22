@@ -4,7 +4,7 @@ x, y = input('두 단어를 입력하세요 >').split(': ')
 
 # print(x,y) 와 print(x) , print(y)는 그냥 사용 불가 .split()을 붙여야함
 
-print(int(x)*int(y))
+print(int(x) * int(y))
 
 
 # ====

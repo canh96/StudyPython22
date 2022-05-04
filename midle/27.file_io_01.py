@@ -3,7 +3,7 @@
 
 f = open(file='C:/STUDY/StudyPython22/temp.txt', mode = 'w', encoding='utf-8')
 
-f.wirte('안녕하세요\n')
+f.write('안녕하세요\n')
 f.write('저는 강동현입니다\n')
 f.write('한국사람이죠\n')
 

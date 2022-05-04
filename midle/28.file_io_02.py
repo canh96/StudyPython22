@@ -1,6 +1,6 @@
 #파일 입출력 2 -파일 읽기
 
-f = open(file=' ./temp.txt', mode  ='r', encoding= 'utf-8')
+f = open(file='./temp.txt', mode  ='r', encoding= 'utf-8')
 
 #t = f.read()
 while True:
@@ -9,10 +9,6 @@ while True:
         break
 
     print(line)
-
-
-
-print(t)
 
 f.close()
 print('파일 읽기 완료')
